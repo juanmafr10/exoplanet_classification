@@ -1,5 +1,5 @@
 # EXOPLANET DETECTION
-.....................
+
 
 Este proyecto lo realicé como entrega para el Máster de Ciencia de datos que cursé. Los datos los obtuve de Kaggle (link: https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results), y se trata de una base de datos publicada por la NASA sobre algunos candidatos a exoplanetas observados por el telescopio Kepler.
 
