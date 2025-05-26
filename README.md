@@ -15,4 +15,3 @@ It consists of a Jupyter notebook showing the different phases of the data manip
 
 I also include the project report, where each step is explained in more detail than in the notebook.
 
-Translated with DeepL.com (free version)
